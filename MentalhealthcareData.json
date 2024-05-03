@@ -60,6 +60,490 @@
       "response": "Differences in views on marriage or commitment can be challenging but can be managed with open communication and mutual respect. Have honest conversations about your long-term goals and desires, and seek to understand each other's perspectives. Be willing to compromise and find common ground that honors both partners' values and needs."
     },
     {
+      "tag": "Greeting",
+      "pattern": "hi",
+      "response": "Hi there! How can I help you today?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "hey",
+      "response": "Hey! What can I assist you with?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "hello",
+      "response": "Hello! How may I be of service?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "good morning",
+      "response": "Good morning! What can I do for you?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "good afternoon",
+      "response": "Good afternoon! How can I assist you?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "good evening",
+      "response": "Good evening! What can I help you with?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "howdy",
+      "response": "Howdy! What brings you here today?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "hey there",
+      "response": "Hey there! How may I assist you?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "yo",
+      "response": "Yo! What's up? How can I help?"
+    },
+    {
+      "tag": "Greeting",
+      "pattern": "greetings",
+      "response": "Greetings! How can I be of assistance?"
+    },
+    {
+      "tag": "Query",
+      "pattern": "what time is it",
+      "response": "It's currently [insert current time here]."
+    },
+    {
+      "tag": "Query",
+      "pattern": "what's the weather like",
+      "response": "The weather is [insert current weather conditions here]."
+    },
+    {
+      "tag": "Query",
+      "pattern": "tell me a joke",
+      "response": "Sure! Why couldn't the bicycle stand up by itself? It was two tired!"
+    },
+    {
+      "tag": "Query",
+      "pattern": "what is your name",
+      "response": "My name is ChatBot. How can I assist you?"
+    },
+    {
+      "tag": "Query",
+      "pattern": "where are you from",
+      "response": "I exist in the digital realm, ready to assist you wherever you are."
+    },
+    {
+      "tag": "Query",
+      "pattern": "what is the meaning of life",
+      "response": "The meaning of life is a profound question that humans have pondered for centuries. It's up to each individual to find their own meaning."
+    },
+    {
+      "tag": "Query",
+      "pattern": "what is 1 + 1",
+      "response": "1 + 1 equals 2."
+    },
+    {
+      "tag": "Query",
+      "pattern": "what is the capital of France",
+      "response": "The capital of France is Paris."
+    },
+    {
+      "tag": "Query",
+      "pattern": "who is the president of the United States",
+      "response": "As of my last update, the president of the United States is [insert president's name here]."
+    },
+    {
+      "tag": "Query",
+      "pattern": "tell me a fun fact",
+      "response": "Did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896? It lasted only 38 minutes!"
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "goodbye",
+      "response": "Goodbye! Take care."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "bye",
+      "response": "Bye! Have a great day."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "see you later",
+      "response": "See you later! Don't hesitate to come back if you need assistance."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "take care",
+      "response": "You too! Take care."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "farewell",
+      "response": "Farewell! Until we meet again."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "adios",
+      "response": "Adios! Hasta luego."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "so long",
+      "response": "So long! Farewell for now."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "catch you later",
+      "response": "Catch you later! Take care."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "have a nice day",
+      "response": "You too! Have a nice day."
+    },
+    {
+      "tag": "Farewell",
+      "pattern": "goodnight",
+      "response": "Goodnight! Sweet dreams."
+    },
+    {
+      "tag": "Help",
+      "pattern": "help me",
+      "response": "Of course! What do you need assistance with?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "can you help me",
+      "response": "Absolutely! What can I assist you with?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i need assistance",
+      "response": "I'm here to help! What's the issue?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i'm stuck",
+      "response": "I'll do my best to help you out! What seems to be the problem?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i don't know what to do",
+      "response": "Don't worry, I'm here to guide you. What's troubling you?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "please assist me",
+      "response": "Sure thing! What do you need assistance with?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i'm lost",
+      "response": "I'll help you find your way! What seems to be the issue?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i'm confused",
+      "response": "No problem, I'm here to clarify things for you. What's confusing you?"
+    },
+    {
+      "tag": "Help",
+      "pattern": "i need guidance",
+      "response": "I'm here to provide guidance! What's on your mind?"
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thank you",
+      "response": "You're welcome! If you need anything else, feel free to ask."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thanks",
+      "response": "No problem! Happy to assist."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "much appreciated",
+      "response": "Glad I could help! Let me know if you need anything else."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thank you so much",
+      "response": "You're very welcome!"}
+,{
+      "tag": "Gratitude",
+      "pattern": "thanks",
+      "response": "No problem! Happy to assist."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "much appreciated",
+      "response": "Glad I could help! Let me know if you need anything else."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thank you so much",
+      "response": "You're very welcome! It's my pleasure."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thanks a lot",
+      "response": "Anytime! I'm here to help."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "appreciate it",
+      "response": "I appreciate your kind words! Let me know if there's anything else you need."
+    },
+    {
+      "tag": "Apology",
+      "pattern": "sorry",
+      "response": "No worries! Is there something specific you need assistance with?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "my apologies",
+      "response": "No need to apologize! How can I assist you today?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "i apologize",
+      "response": "No problem at all! What can I help you with?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "i'm sorry",
+      "response": "It's okay! Let's focus on how I can assist you."
+    },
+    {
+      "tag": "Apology",
+      "pattern": "forgive me",
+      "response": "Of course! How can I assist you further?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "great job",
+      "response": "Thank you! Is there anything else I can help you with?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "well done",
+      "response": "Thanks! Let me know if there's anything else you need assistance with."
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "awesome",
+      "response": "I'm glad you think so! How else can I assist you?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "excellent",
+      "response": "Thank you! I'm here to assist you whenever you need."
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "fantastic",
+      "response": "I appreciate the positive feedback! Let me know if there's anything else you need."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thanks",
+      "response": "No problem! Happy to assist."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "much appreciated",
+      "response": "Glad I could help! Let me know if you need anything else."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thank you so much",
+      "response": "You're very welcome! It's my pleasure."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "thanks a lot",
+      "response": "Anytime! I'm here to help."
+    },
+    {
+      "tag": "Gratitude",
+      "pattern": "appreciate it",
+      "response": "I appreciate your kind words! Let me know if there's anything else you need."
+    },
+    {
+      "tag": "Apology",
+      "pattern": "sorry",
+      "response": "No worries! Is there something specific you need assistance with?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "my apologies",
+      "response": "No need to apologize! How can I assist you today?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "i apologize",
+      "response": "No problem at all! What can I help you with?"
+    },
+    {
+      "tag": "Apology",
+      "pattern": "i'm sorry",
+      "response": "It's okay! Let's focus on how I can assist you."
+    },
+    {
+      "tag": "Apology",
+      "pattern": "forgive me",
+      "response": "Of course! How can I assist you further?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "great job",
+      "response": "Thank you! Is there anything else I can help you with?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "well done",
+      "response": "Thanks! Let me know if there's anything else you need assistance with."
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "awesome",
+      "response": "I'm glad you think so! How else can I assist you?"
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "excellent",
+      "response": "Thank you! I'm here to assist you whenever you need."
+    },
+    {
+      "tag": "Positive Feedback",
+      "pattern": "fantastic",
+      "response": "I appreciate the positive feedback! Let me know if there's anything else you need."
+    },
+    {
+      "tag": "Negative Feedback",
+      "pattern": "not good",
+      "response": "I'm sorry to hear that. Can you please provide more details so I can assist you better?"
+    },
+    {
+      "tag": "Negative Feedback",
+      "pattern": "didn't help",
+      "response": "I apologize for that. Let me try to assist you again. What seems to be the problem?"
+    },
+    {
+      "tag": "Negative Feedback",
+      "pattern": "not satisfactory",
+      "response": "I'm sorry to hear that. Please let me know how I can improve and assist you better."
+    },
+    {
+      "tag": "Negative Feedback",
+      "pattern": "disappointed",
+      "response": "I apologize if I didn't meet your expectations. Let me try to assist you again."
+    },
+    {
+      "tag": "Negative Feedback",
+      "pattern": "frustrated",
+      "response": "I understand your frustration. Let's work together to resolve the issue."
+    },
+    {
+      "tag": "Inquiry",
+      "pattern": "how does it work",
+      "response": "I'd be happy to explain! Can you please specify what you're referring to?"
+    },
+    {
+      "tag": "Inquiry",
+      "pattern": "what do you do",
+      "response": "I'm here to assist you with a variety of tasks and inquiries. Feel free to ask me anything!"
+    },
+    {
+      "tag": "Inquiry",
+      "pattern": "can you explain",
+      "response": "Absolutely! What would you like me to explain?"
+    },
+    {
+      "tag": "Inquiry",
+      "pattern": "what is this",
+      "response": "I'd be happy to provide more information. Could you please specify what you're referring to?"
+    },
+    {
+      "tag": "Inquiry",
+      "pattern": "how can i",
+      "response": "I'm here to help! What would you like to do?"
+    },
+    {
+      "tag": "Affirmation",
+      "pattern": "yes",
+      "response": "Great! What can I assist you with?"
+    },
+    {
+      "tag": "Affirmation",
+      "pattern": "sure",
+      "response": "Sure thing! What do you need help with?"
+    },
+    {
+      "tag": "Affirmation",
+      "pattern": "absolutely",
+      "response": "Absolutely! How can I assist you further?"
+    },
+    {
+      "tag": "Affirmation",
+      "pattern": "definitely",
+      "response": "Definitely! Let me know what you need assistance with."
+    },
+    {
+      "tag": "Affirmation",
+      "pattern": "of course",
+      "response": "Of course! How can I help you today?"
+    },
+    {
+      "tag": "Negation",
+      "pattern": "no",
+      "response": "Okay, no problem. Let me know if you change your mind."
+    },
+    {
+      "tag": "Negation",
+      "pattern": "not really",
+      "response": "Alright, let me know if you need assistance in the future."
+    },
+    {
+      "tag": "Negation",
+      "pattern": "not now",
+      "response": "That's okay. Feel free to reach out when you're ready."
+    },
+    {
+      "tag": "Negation",
+      "pattern": "i'm not sure",
+      "response": "No worries! Take your time, and let me know if you need assistance later."
+    },
+    {
+      "tag": "Negation",
+      "pattern": "i don't think so",
+      "response": "Alright, just let me know if you need help in the future."
+    },
+    {
+      "tag": "Confirmation",
+      "pattern": "okay",
+      "response": "Great! How can I assist you further?"
+    },
+    {
+      "tag": "Confirmation",
+      "pattern": "alright",
+      "response": "Alright! What else can I help you with?"
+    },
+    {
+      "tag": "Confirmation",
+      "pattern": "sounds good",
+      "response": "Sounds good! Let me know if there's anything else you need."
+    },
+    {
+      "tag": "Confirmation",
+      "pattern": "that works",
+      "response": "That works for me! What else can I assist you with?"
+    },
+    {
       "tag": "relationship",
       "pattern": "How can I support my partner through a difficult emotional period?",
       "response": "Supporting your partner through a difficult emotional period requires empathy, patience, and active listening. Be present for your partner and offer a listening ear without judgment. Validate their feelings and reassure them of your love and support. Encourage them to seek professional help if needed and offer practical assistance where possible."

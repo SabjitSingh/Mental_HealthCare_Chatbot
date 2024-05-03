@@ -1,4 +1,3 @@
-
 import streamlit as st
 import joblib
 
@@ -23,5 +22,3 @@ if st.button("Send"):
     
     # Display bot response
     st.text_area("Bot:", value=bot_response, height=100)
-
-
