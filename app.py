@@ -11,7 +11,7 @@ def predict_input_svm(pipeline, user_input):
 
 # # Define Streamlit UI
 st.title("Mental Healthcare Chatbot")
-
+st.markdown("Hello! I'm your friendly mental health care assistant.")
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
