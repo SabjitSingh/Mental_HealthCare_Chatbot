@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # # Load your pre-trained model
-pipeline = joblib.load("svm_model.joblib")
+pipeline = joblib.load("KNN.joblib")
 
 # Function to predict response
 def predict_input_svm(pipeline, user_input):
