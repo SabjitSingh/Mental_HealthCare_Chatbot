@@ -55,6 +55,10 @@ This project implements a mental health care chatbot using machine learning mode
 
 2. The chatbot interface will open in your web browser. Enter your inputs and interact with the chatbot.
 
+### Live Demo
+
+You can access the live demo of the chatbot [here](https://mentalhealthcarechatbot.streamlit.app/).
+
 ## Training the Model
 
 To train the model, follow the steps below. The training script preprocesses the text, trains the SVM model, and saves the trained model using `joblib`.
